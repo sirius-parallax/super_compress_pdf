@@ -9,6 +9,9 @@ sudo apt update
 sudo apt install poppler-utils imagemagick img2pdf
 
 # Использование
+Сделать исполняемым 
+chmod +x super_compress_pdf_gui.sh
+Запускать:
 ./super_compress_pdf.sh input.pdf output.pdf
 
 # Параметры:
